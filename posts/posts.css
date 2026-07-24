@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+}
+
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
+
+.post, .about {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+
+.date {
+    color: gray;
+}
+
+
+a {
+    color: blue;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile .pfp {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  text-align: center;
+}
